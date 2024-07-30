@@ -13664,8 +13664,9 @@
     "FFlagNotificationsUpsellLocalPlayerFromServiceFix": true,
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": true,
     "FFlagDspCreationFailureReturnsNullptr": true,
-    "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": true,
     "FFlagTextureManagerUsePerfControl2": true,
+    "FFlagFixPeekViewJitter3_Rollout": "true;60;2024-07-30T18:22:11",
+    "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": true,
     "FFlagEnableDMInitMeasurement": true,
     "FFlagEnableLoadPatchMetric": true,
     "FFlagGpuGeometryManager10": true,
@@ -14164,8 +14165,8 @@
     "DFFlagMicroProfilerMemoryScope": true,
     "DFFlagMicroprofilerOutput2": true,
     "FFlagLuaAppGameTileThumbnailBadgesEnabled3": true,
-    "FStringFlagRepoGitHashFastString": "c7b719f6e97c4fa256560ccdd35b2ed1a2f1ac73",
-    "DFStringFlagRepoGitHashDynamicString": "c7b719f6e97c4fa256560ccdd35b2ed1a2f1ac73",
-    "FStringFlipTimeStampFastString": "2024-07-30T18:21:10.574Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-30T18:21:10.574Z"
+    "FStringFlagRepoGitHashFastString": "e5d5f8ddd08cb29d23414ba5fe41497b27af8cc9",
+    "DFStringFlagRepoGitHashDynamicString": "e5d5f8ddd08cb29d23414ba5fe41497b27af8cc9",
+    "FStringFlipTimeStampFastString": "2024-07-30T18:27:05.147Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-30T18:27:05.147Z"
 }

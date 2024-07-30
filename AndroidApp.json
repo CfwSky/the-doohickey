@@ -13665,6 +13665,8 @@
     "FFlagLuaAppMigrateOtaApiValidation_Rollout": "true;30;2024-07-30T18:19:27",
     "FFlagDspCreationFailureReturnsNullptr": true,
     "FFlagRefactorRescaleVideo_Rollout": "true;30;2024-07-30T18:20:41",
+    "FFlagFixPeekViewJitter3_Rollout": "true;60;2024-07-30T18:22:11",
+    "DFFlagEnableInPlaceFlagJsonParsing_Rollout": "true;60;2024-07-30T18:25:30",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -14238,8 +14240,9 @@
     "FFlagFIB3OnAndroidExperimentEnabled": true,
     "DFFlagMicroprofilerOutput2": true,
     "FFlagLuaAppGameTileThumbnailBadgesEnabled3": true,
-    "FStringFlagRepoGitHashFastString": "6ef9d74861b04d2b75896af46126dfd94887b0d0",
-    "DFStringFlagRepoGitHashDynamicString": "6ef9d74861b04d2b75896af46126dfd94887b0d0",
-    "FStringFlipTimeStampFastString": "2024-07-30T18:22:02.038Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-30T18:22:02.038Z"
+    "DFFlagReportSwapUsage2_Rollout": "true;60;2024-07-30T18:26:38",
+    "FStringFlagRepoGitHashFastString": "e5d5f8ddd08cb29d23414ba5fe41497b27af8cc9",
+    "DFStringFlagRepoGitHashDynamicString": "e5d5f8ddd08cb29d23414ba5fe41497b27af8cc9",
+    "FStringFlipTimeStampFastString": "2024-07-30T18:27:05.147Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-30T18:27:05.147Z"
 }
