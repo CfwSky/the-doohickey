@@ -13649,7 +13649,6 @@
     "FFlagLuaAppRefactorOmniPageType": true,
     "AxisAdornmentGrabSize": 12,
     "FStringLuaAppSortsWithDividers_Rollout": "100000001,100000003,100000007,100000008,100000010,300000000,400000000,500000000,500000001,600000000;30;2024-07-30T17:29:52",
-    "FFlagAXEnableAvatarDataRefreshV2_Rollout": "true;60;2024-07-30T17:32:40",
     "FFlagInvisibleBackgroundUIStrokeFix_Rollout": "true;60;2024-07-30T17:39:49",
     "FFlagMacTextBoxTabFix_Rollout": "true;60;2024-07-30T17:40:42",
     "FFlagUIPageLayoutCurrentPageLayoutOrderChangeFix_Rollout": "true;60;2024-07-30T17:40:45",
@@ -13658,6 +13657,7 @@
     "FFlagFixFmodDlMallocCrash": true,
     "FFlagReplaceWaitForChildDependancy2952_Rollout": "true;60;2024-07-30T17:42:39",
     "FFlagGateEducationalPopupVisibilityViaGUAC": true,
+    "FFlagSimConsolidateTimestepMultiplierFix_Rollout": "true;60;2024-07-30T17:49:45",
     "CaptureQTStudioCountersEnabled": true,
     "DFFlagBoxMappedMeshLODFix_v2": true,
     "DFFlagCLI120342": false,
@@ -14570,8 +14570,8 @@
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": 1000,
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": false,
-    "FStringFlagRepoGitHashFastString": "87e2581bbce2f6a31b8ccc7b29ed30fcfd3840d0",
-    "DFStringFlagRepoGitHashDynamicString": "87e2581bbce2f6a31b8ccc7b29ed30fcfd3840d0",
-    "FStringFlipTimeStampFastString": "2024-07-30T17:47:18.697Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-30T17:47:18.697Z"
+    "FStringFlagRepoGitHashFastString": "578dc88900adf6ccbf3fb7bd89ea54bf2a349428",
+    "DFStringFlagRepoGitHashDynamicString": "578dc88900adf6ccbf3fb7bd89ea54bf2a349428",
+    "FStringFlipTimeStampFastString": "2024-07-30T17:51:58.396Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-30T17:51:58.396Z"
 }
