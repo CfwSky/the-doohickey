@@ -13637,7 +13637,6 @@
     "FFlagGateLeaderboardPlayerDropdownViaGUAC_Rollout": "true;60;2024-07-30T16:09:07",
     "FFlagEnsureGridSizeSettingsSetOnceGameLoaded_Rollout": "true;60;2024-07-30T16:09:43",
     "FFlagGateEducationalPopupVisibilityViaGUAC_Rollout": "true;60;2024-07-30T16:10:50",
-    "FFlagLuaAppRefactorOmniPageType_Rollout": "true;30;2024-07-30T16:11:49",
     "AllowVideoPreRoll": true,
     "FFlagSocialBtnsFollowupExperiment": true,
     "FFlagVideoIOSUseDynamicMaxReorderFrame_Rollout": "true;60;2024-07-30T16:37:54",
@@ -13651,6 +13650,10 @@
     "FFlagLuaAppMoveOtaPatchValidation_Rollout": "true;30;2024-07-30T17:09:22",
     "FFlagRenderTestAddBetterLogging_Rollout": "true;60;2024-07-30T17:13:59",
     "FFlagRenderTestInitViewportSettings_Rollout": "true;60;2024-07-30T17:14:05",
+    "FFlagLuaAppRefactorOmniPageType": true,
+    "FFlagLuaAppDiscoveryOtaApiValidation_Rollout": "true;30;2024-07-30T17:29:35",
+    "FStringLuaAppSortsWithDividers_Rollout": "100000001,100000003,100000007,100000008,100000010,300000000,400000000,500000000,500000001,600000000;30;2024-07-30T17:29:52",
+    "FFlagAXEnableAvatarDataRefreshV2_Rollout": "true;60;2024-07-30T17:32:40",
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -14224,8 +14227,8 @@
     "FFlagFIB3OnAndroidExperimentEnabled": true,
     "DFFlagMicroprofilerOutput2": true,
     "FFlagLuaAppGameTileThumbnailBadgesEnabled3": true,
-    "FStringFlagRepoGitHashFastString": "2e79cefe52d1b011bfb7918df0730afc1a8371eb",
-    "DFStringFlagRepoGitHashDynamicString": "2e79cefe52d1b011bfb7918df0730afc1a8371eb",
-    "FStringFlipTimeStampFastString": "2024-07-30T17:15:02.869Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-30T17:15:02.869Z"
+    "FStringFlagRepoGitHashFastString": "607e9eeac1cc4973c1b04d33b90eae775deee8a8",
+    "DFStringFlagRepoGitHashDynamicString": "607e9eeac1cc4973c1b04d33b90eae775deee8a8",
+    "FStringFlipTimeStampFastString": "2024-07-30T17:33:21.354Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-30T17:33:21.354Z"
 }
