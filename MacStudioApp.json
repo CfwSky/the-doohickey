@@ -13611,8 +13611,6 @@
     "FFlagCheckForExistingBroadcastRelay": true,
     "DFFlagAddPlaySessionIdToAdRequestBody": true,
     "DFFlagAllowDisablingSTFields": true,
-    "FFlagUIFlexItemHideGrowShrinkRatio": true,
-    "FFlagUIGridStyleAndListLayoutMovePropsToAlignmentCategory": true,
     "FFlagBaseCellUseAutomaticSize": true,
     "FFlagFixChatListCountAnalytics": true,
     "FFlagSocialAnalyticsFixUpdateInfoAllEvents": true,
@@ -14588,8 +14586,8 @@
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": 1000,
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": false,
-    "FStringFlagRepoGitHashFastString": "4f4a7517000200f7ac2135e00717a022ceb44c7b",
-    "DFStringFlagRepoGitHashDynamicString": "4f4a7517000200f7ac2135e00717a022ceb44c7b",
-    "FStringFlipTimeStampFastString": "2024-07-30T21:16:41.046Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-30T21:16:41.046Z"
+    "FStringFlagRepoGitHashFastString": "bc36835ef523707041c773b615c74c0139fe91e6",
+    "DFStringFlagRepoGitHashDynamicString": "bc36835ef523707041c773b615c74c0139fe91e6",
+    "FStringFlipTimeStampFastString": "2024-07-30T21:20:58.897Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-30T21:20:58.897Z"
 }

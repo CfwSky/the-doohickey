@@ -13665,7 +13665,6 @@
     "FFlagFailedFmodAllocationCrashes": true,
     "DFFlagSeparateImageAndVideoStats2_Rollout": "true;60;2024-07-30T19:54:58",
     "DFFlagEnableInPlaceFlagJsonParsing": true,
-    "FFlagNotificationPluginSignalRReadEvents_Rollout": "true;30;2024-07-30T20:14:04",
     "DFFlagOtherFieldsPerfdata_Rollout": "true;60;2024-07-30T20:17:40",
     "FFlagPathfindingHighComputeImplTimeAnalytics2_Rollout": "true;60;2024-07-30T20:21:47",
     "FFlagXboxCheckMultiplayerManagerNull_Rollout": "true;60;2024-07-30T20:26:36",
@@ -13681,6 +13680,7 @@
     "DFIntAvatarLoadFlowTelemetryEventsThrottle_Rollout": "1000;60;2024-07-30T21:07:11",
     "DFFlagFixTotalFreeMemoryMemoryStatsReporting": true,
     "FFlagUseParseMemoryInfoV2": true,
+    "FFlagNotificationPluginSignalRReadEvents": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -14032,8 +14032,8 @@
     "FFlagAXFixDisabledNonLimitedCollectibles": true,
     "DFFlagMicroProfilerMemoryScope": true,
     "DFFlagMicroprofilerOutput2": true,
-    "FStringFlagRepoGitHashFastString": "3ab092a145e64209b1efe77a919936b87cefabdb",
-    "DFStringFlagRepoGitHashDynamicString": "3ab092a145e64209b1efe77a919936b87cefabdb",
-    "FStringFlipTimeStampFastString": "2024-07-30T21:13:06.910Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-30T21:13:06.910Z"
+    "FStringFlagRepoGitHashFastString": "4f4a7517000200f7ac2135e00717a022ceb44c7b",
+    "DFStringFlagRepoGitHashDynamicString": "4f4a7517000200f7ac2135e00717a022ceb44c7b",
+    "FStringFlipTimeStampFastString": "2024-07-30T21:16:41.046Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-30T21:16:41.046Z"
 }
