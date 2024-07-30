@@ -13674,6 +13674,9 @@
     "FFlagNotificationPluginSignalRReadEvents_Rollout": "true;30;2024-07-30T20:14:04",
     "DFFlagOtherFieldsPerfdata_Rollout": "true;60;2024-07-30T20:17:40",
     "FFlagPathfindingHighComputeImplTimeAnalytics2_Rollout": "true;60;2024-07-30T20:21:47",
+    "FFlagXboxCheckMultiplayerManagerNull_Rollout": "true;60;2024-07-30T20:26:36",
+    "DFFlagSimIslandBatchRemoveStdBind_Rollout": "true;60;2024-07-30T20:26:39",
+    "FFlagFixSessionEventBackgrounded_Rollout": "true;60;2024-07-30T20:28:50",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -14580,8 +14583,8 @@
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": 1000,
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": false,
-    "FStringFlagRepoGitHashFastString": "f5cd5a1bf8c07bafef289c74ec30c65a464205ca",
-    "DFStringFlagRepoGitHashDynamicString": "f5cd5a1bf8c07bafef289c74ec30c65a464205ca",
-    "FStringFlipTimeStampFastString": "2024-07-30T20:22:14.331Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-30T20:22:14.331Z"
+    "FStringFlagRepoGitHashFastString": "a619a448be6e61e2b726c19a8391303dc4cf20a6",
+    "DFStringFlagRepoGitHashDynamicString": "a619a448be6e61e2b726c19a8391303dc4cf20a6",
+    "FStringFlipTimeStampFastString": "2024-07-30T20:29:43.943Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-30T20:29:43.943Z"
 }
