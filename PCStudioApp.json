@@ -24,7 +24,7 @@
     "DFFlagGlobalToggle17sApis": false,
     "DFFlagHidePartSurfaceProperties": true,
     "DFFlagHideProxySettings": true,
-    "DFFlagHttpCacheMissingRedirects": false,
+    "DFFlagHttpCacheMissingRedirects": true,
     "DFFlagHttpDynamicSuccessStatusCode": true,
     "DFFlagHttpNetworkType": false,
     "DFFlagHttpRbxApiEnable17sApis": false,
@@ -14468,7 +14468,6 @@
     "FFlagFixStandaloneDMCommandDispatch": true,
     "FFlagToolboxVotingUrlToHaveAssetIdInURL2": true,
     "FFlagFixShowHideServiceActionVisibility": true,
-    "DFFlagHttpCacheMissingRedirects_Rollout": "true;60;2024-07-30T16:31:44",
     "FFlagStudioImproveCommandsObservability_Rollout": "true;60;2024-07-30T17:39:54",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": true,
     "FFlagIntegrityCheckedProcessorUsePerfControl": true,
@@ -14576,8 +14575,8 @@
     "FIntEventWillSleepThrottling": 10000,
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": false,
-    "FStringFlagRepoGitHashFastString": "498ce653211632eee2ad51ec2c9116d3d328bb65",
-    "DFStringFlagRepoGitHashDynamicString": "498ce653211632eee2ad51ec2c9116d3d328bb65",
-    "FStringFlipTimeStampFastString": "2024-07-30T17:57:20.454Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-30T17:57:20.454Z"
+    "FStringFlagRepoGitHashFastString": "e76d41cc96ae2ef2e47c8ede236af6ee1a2491f4",
+    "DFStringFlagRepoGitHashDynamicString": "e76d41cc96ae2ef2e47c8ede236af6ee1a2491f4",
+    "FStringFlipTimeStampFastString": "2024-07-30T18:03:37.861Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-30T18:03:37.861Z"
 }
