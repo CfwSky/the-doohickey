@@ -13634,8 +13634,6 @@
     "DFFlagCLI102833v2": true,
     "DFFlagSimAeroForceModelJacobianTransposeFix": true,
     "FFlagSocialBtnsFollowupExperiment": true,
-    "DFFlagTrimInstanceIdentifier_Rollout": "true;60;2024-07-30T17:07:58",
-    "DFFlagTrimInstanceIdentifierGst_Rollout": "true;60;2024-07-30T17:09:17",
     "FFlagRenderTestAddBetterLogging_Rollout": "true;60;2024-07-30T17:13:59",
     "FFlagRenderTestInitViewportSettings_Rollout": "true;60;2024-07-30T17:14:05",
     "FFlagLuaAppRefactorOmniPageType": true,
@@ -13666,6 +13664,8 @@
     "FFlagFixPeekViewJitter3_Rollout": "true;60;2024-07-30T18:22:11",
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": true,
     "FFlagLuaAppDiscoveryOtaApiValidation": true,
+    "DFFlagTrimInstanceIdentifier": true,
+    "DFFlagTrimInstanceIdentifierGst": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -14574,8 +14574,8 @@
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": 1000,
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": false,
-    "FStringFlagRepoGitHashFastString": "9709f178e3b246bfc98f4285ba6a1b7288a809f5",
-    "DFStringFlagRepoGitHashDynamicString": "9709f178e3b246bfc98f4285ba6a1b7288a809f5",
-    "FStringFlipTimeStampFastString": "2024-07-30T18:31:18.030Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-30T18:31:18.030Z"
+    "FStringFlagRepoGitHashFastString": "0a38038110b6e836f5ef5a56a29c690c28c8f49a",
+    "DFStringFlagRepoGitHashDynamicString": "0a38038110b6e836f5ef5a56a29c690c28c8f49a",
+    "FStringFlipTimeStampFastString": "2024-07-30T18:41:42.387Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-30T18:41:42.387Z"
 }
