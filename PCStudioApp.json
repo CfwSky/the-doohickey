@@ -13633,6 +13633,10 @@
     "FIntToolboxSceneAnalysisViewportMaxScreenDivisions": 1,
     "DFFlagCLI102833v2": true,
     "DFFlagSimAeroForceModelJacobianTransposeFix": true,
+    "FFlagFixFmodDlMallocCrash_Rollout": "true;60;2024-07-30T16:08:39",
+    "FFlagGateLeaderboardPlayerDropdownViaGUAC_Rollout": "true;60;2024-07-30T16:09:07",
+    "FFlagEnsureGridSizeSettingsSetOnceGameLoaded_Rollout": "true;60;2024-07-30T16:09:43",
+    "FFlagGateEducationalPopupVisibilityViaGUAC_Rollout": "true;60;2024-07-30T16:10:50",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -14552,8 +14556,8 @@
     "FIntEventWillSleepThrottling": 10000,
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": false,
-    "FStringFlagRepoGitHashFastString": "a900d63c062811d38eb4afe6a1b05de2c26784ff",
-    "DFStringFlagRepoGitHashDynamicString": "a900d63c062811d38eb4afe6a1b05de2c26784ff",
-    "FStringFlipTimeStampFastString": "2024-07-30T16:00:56.394Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-30T16:00:56.394Z"
+    "FStringFlagRepoGitHashFastString": "f52661aceb140bf1a1d0cc0987b2554982bf4828",
+    "DFStringFlagRepoGitHashDynamicString": "f52661aceb140bf1a1d0cc0987b2554982bf4828",
+    "FStringFlipTimeStampFastString": "2024-07-30T16:12:10.035Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-30T16:12:10.035Z"
 }
