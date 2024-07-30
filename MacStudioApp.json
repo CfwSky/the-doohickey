@@ -13640,6 +13640,7 @@
     "AllowVideoPreRoll": true,
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": true,
     "FFlagSocialBtnsFollowupExperiment": true,
+    "FFlagVideoIOSUseDynamicMaxReorderFrame_Rollout": "true;60;2024-07-30T16:37:54",
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -14554,8 +14555,8 @@
     "FIntEventDeviceMtlWaitForCompletionHangThrottling": 1000,
     "FLogStartPageIXPCheck": "Warning,6",
     "DFFlagRobloxTelemetrySendByBatchSize": false,
-    "FStringFlagRepoGitHashFastString": "9c2b9f463d45e8076383c9a5c5c47ae3801a631c",
-    "DFStringFlagRepoGitHashDynamicString": "9c2b9f463d45e8076383c9a5c5c47ae3801a631c",
-    "FStringFlipTimeStampFastString": "2024-07-30T16:32:19.688Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-30T16:32:19.688Z"
+    "FStringFlagRepoGitHashFastString": "294c5b9cdb2eee2a46db163ae1fec6e086fa2339",
+    "DFStringFlagRepoGitHashDynamicString": "294c5b9cdb2eee2a46db163ae1fec6e086fa2339",
+    "FStringFlipTimeStampFastString": "2024-07-30T16:38:56.281Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-30T16:38:56.281Z"
 }
