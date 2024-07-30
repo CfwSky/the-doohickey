@@ -13676,6 +13676,7 @@
     "FFlagPathfindingHighComputeImplTimeAnalytics2_Rollout": "true;60;2024-07-30T20:21:47",
     "FFlagXboxCheckMultiplayerManagerNull_Rollout": "true;60;2024-07-30T20:26:36",
     "DFFlagSimIslandBatchRemoveStdBind_Rollout": "true;60;2024-07-30T20:26:39",
+    "FFlagFixSessionEventBackgrounded_Rollout": "true;60;2024-07-30T20:28:50",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -14027,8 +14028,8 @@
     "FFlagAXFixDisabledNonLimitedCollectibles": true,
     "DFFlagMicroProfilerMemoryScope": true,
     "DFFlagMicroprofilerOutput2": true,
-    "FStringFlagRepoGitHashFastString": "10444146c02c0bfcd6074b6c98f46753ca818ec9",
-    "DFStringFlagRepoGitHashDynamicString": "10444146c02c0bfcd6074b6c98f46753ca818ec9",
-    "FStringFlipTimeStampFastString": "2024-07-30T20:27:35.140Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-30T20:27:35.140Z"
+    "FStringFlagRepoGitHashFastString": "a619a448be6e61e2b726c19a8391303dc4cf20a6",
+    "DFStringFlagRepoGitHashDynamicString": "a619a448be6e61e2b726c19a8391303dc4cf20a6",
+    "FStringFlipTimeStampFastString": "2024-07-30T20:29:43.943Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-30T20:29:43.943Z"
 }
