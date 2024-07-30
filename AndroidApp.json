@@ -13639,7 +13639,6 @@
     "FFlagNotificationsUpsellDisableBackgroundDismiss_Rollout": "true;60;2024-07-30T16:43:30",
     "FFlagNotificationsUpsellLocalPlayerFromServiceFix_Rollout": "true;60;2024-07-30T16:44:36",
     "FFlagDspCreationFailureReturnsNullptr_Rollout": "true;60;2024-07-30T16:45:47",
-    "FFlagLuaAppUnifyTopicInfo_Rollout": "true;30;2024-07-30T16:49:36",
     "FFlagEnableSimulationStepForward_Rollout": "true;30;2024-07-30T17:04:33",
     "DFFlagTrimInstanceIdentifier_Rollout": "true;60;2024-07-30T17:07:58",
     "DFFlagTrimInstanceIdentifierGst_Rollout": "true;60;2024-07-30T17:09:17",
@@ -13649,7 +13648,6 @@
     "FFlagLuaAppRefactorOmniPageType": true,
     "FFlagLuaAppDiscoveryOtaApiValidation_Rollout": "true;30;2024-07-30T17:29:35",
     "FStringLuaAppSortsWithDividers_Rollout": "100000001,100000003,100000007,100000008,100000010,300000000,400000000,500000000,500000001,600000000;30;2024-07-30T17:29:52",
-    "FFlagAXEnableAvatarDataRefreshV2_Rollout": "true;60;2024-07-30T17:32:40",
     "FFlagInvisibleBackgroundUIStrokeFix_Rollout": "true;60;2024-07-30T17:39:49",
     "FFlagMacTextBoxTabFix_Rollout": "true;60;2024-07-30T17:40:42",
     "FFlagUIPageLayoutCurrentPageLayoutOrderChangeFix_Rollout": "true;60;2024-07-30T17:40:45",
@@ -13659,6 +13657,9 @@
     "FFlagReplaceWaitForChildDependancy2952_Rollout": "true;60;2024-07-30T17:42:39",
     "FFlagGateEducationalPopupVisibilityViaGUAC": true,
     "FFlagSimConsolidateTimestepMultiplierFix_Rollout": "true;60;2024-07-30T17:49:45",
+    "FFlagAXFixCategoryForPurchaseTelemetry": true,
+    "FFlagLuaAppUnifyTopicInfo": true,
+    "DFFlagSimWorldOnPrimitiveSpanningTreeWeightChangedTempEdgesSmallVector_Rollout": "true;30;2024-07-30T17:53:29",
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -14232,8 +14233,8 @@
     "FFlagFIB3OnAndroidExperimentEnabled": true,
     "DFFlagMicroprofilerOutput2": true,
     "FFlagLuaAppGameTileThumbnailBadgesEnabled3": true,
-    "FStringFlagRepoGitHashFastString": "8746567cbefe8f824e4188d44e1498b2a19355fb",
-    "DFStringFlagRepoGitHashDynamicString": "8746567cbefe8f824e4188d44e1498b2a19355fb",
-    "FStringFlipTimeStampFastString": "2024-07-30T17:50:56.384Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-30T17:50:56.384Z"
+    "FStringFlagRepoGitHashFastString": "78550ec7124eb53cb528e4f50b93f661169bcf85",
+    "DFStringFlagRepoGitHashDynamicString": "78550ec7124eb53cb528e4f50b93f661169bcf85",
+    "FStringFlipTimeStampFastString": "2024-07-30T17:54:07.667Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-30T17:54:07.667Z"
 }
