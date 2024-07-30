@@ -13639,6 +13639,7 @@
     "FFlagGateEducationalPopupVisibilityViaGUAC_Rollout": "true;60;2024-07-30T16:10:50",
     "FFlagLuaAppRefactorOmniPageType_Rollout": "true;30;2024-07-30T16:11:49",
     "AllowVideoPreRoll": true,
+    "FFlagSocialBtnsFollowupExperiment": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
     "CaptureQTStudioCountersEnabled": true,
@@ -14212,8 +14213,8 @@
     "FFlagFIB3OnAndroidExperimentEnabled": true,
     "DFFlagMicroprofilerOutput2": true,
     "FFlagLuaAppGameTileThumbnailBadgesEnabled3": true,
-    "FStringFlagRepoGitHashFastString": "f52661aceb140bf1a1d0cc0987b2554982bf4828",
-    "DFStringFlagRepoGitHashDynamicString": "f52661aceb140bf1a1d0cc0987b2554982bf4828",
-    "FStringFlipTimeStampFastString": "2024-07-30T16:12:10.035Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-30T16:12:10.035Z"
+    "FStringFlagRepoGitHashFastString": "0c9f429c0ed57554f086ffbf0099fcbc9d6c18f3",
+    "DFStringFlagRepoGitHashDynamicString": "0c9f429c0ed57554f086ffbf0099fcbc9d6c18f3",
+    "FStringFlipTimeStampFastString": "2024-07-30T16:23:16.430Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-30T16:23:16.430Z"
 }
