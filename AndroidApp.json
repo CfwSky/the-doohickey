@@ -13678,6 +13678,8 @@
     "DFFlagSimIslandBatchRemoveStdBind_Rollout": "true;60;2024-07-30T20:26:39",
     "FFlagFixSessionEventBackgrounded_Rollout": "true;60;2024-07-30T20:28:50",
     "FFlagDraggerFixUserInputMouse_Rollout": "true;60;2024-07-30T20:35:08",
+    "FFlagUseNewTerrainBroadPhase11_Rollout": "true;60;2024-07-30T20:36:03",
+    "FFlagEnableCrashUploadToBacktracePercentage2_Rollout": "true;30;2024-07-30T20:36:19",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -14252,8 +14254,8 @@
     "DFFlagMicroprofilerOutput2": true,
     "FFlagLuaAppGameTileThumbnailBadgesEnabled3": true,
     "DFFlagReportSwapUsage2": true,
-    "FStringFlagRepoGitHashFastString": "9d3d65c621a184021454b30608f63250f94f195f",
-    "DFStringFlagRepoGitHashDynamicString": "9d3d65c621a184021454b30608f63250f94f195f",
-    "FStringFlipTimeStampFastString": "2024-07-30T20:35:42.153Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-30T20:35:42.153Z"
+    "FStringFlagRepoGitHashFastString": "98f62b867a26ea5b084ca2ca96ae21ac2808c0c4",
+    "DFStringFlagRepoGitHashDynamicString": "98f62b867a26ea5b084ca2ca96ae21ac2808c0c4",
+    "FStringFlipTimeStampFastString": "2024-07-30T20:36:51.526Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-30T20:36:51.526Z"
 }
