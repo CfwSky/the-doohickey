@@ -13642,7 +13642,6 @@
     "FFlagAXFixCategoryForPurchaseTelemetry": true,
     "FFlagLuaAppUnifyTopicInfo": true,
     "DFFlagOptimizeFlagProcessing": true,
-    "FFlagFastClusterUpdateDurationTelemetry3_Rollout": "true;60;2024-07-30T18:04:59",
     "FFlagEnableSimulationStepForward": true,
     "FIntVideoIOSMaximumOutOfOrderFrames_Rollout": "4;60;2024-07-30T18:13:17",
     "FFlagFailedFmodAllocationCrashes_Rollout": "true;60;2024-07-30T18:17:27",
@@ -13668,6 +13667,8 @@
     "FFlagIntegrityCheckedProcessorUsePerfControl": true,
     "FFlagUseOpaqueNameForSessionChange_Rollout": "true;60;2024-07-30T19:23:17",
     "FFlagRefactorRescaleVideo": true,
+    "FFlagFastClusterUpdateDurationTelemetry3": true,
+    "DFFlagFixTotalFreeMemoryMemoryStatsReporting_Rollout": "true;60;2024-07-30T19:38:02",
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": true,
     "FFlagTextureManagerUsePerfControl2": true,
     "FFlagEnableDMInitMeasurement": true,
@@ -14169,8 +14170,8 @@
     "FFlagLuaAppGameTileThumbnailBadgesEnabled3": true,
     "FFlagUAppBlockPageUseTextFromGUAC": true,
     "FFlagDisableLogWhenMonitorConditionLocked2": true,
-    "FStringFlagRepoGitHashFastString": "80d742e079f344e9aae7a81b17d5de6584065ce5",
-    "DFStringFlagRepoGitHashDynamicString": "80d742e079f344e9aae7a81b17d5de6584065ce5",
-    "FStringFlipTimeStampFastString": "2024-07-30T19:26:33.630Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-30T19:26:33.630Z"
+    "FStringFlagRepoGitHashFastString": "d3c51a16e8194c229d7894c9e42bbcd93065b7d6",
+    "DFStringFlagRepoGitHashDynamicString": "d3c51a16e8194c229d7894c9e42bbcd93065b7d6",
+    "FStringFlipTimeStampFastString": "2024-07-30T19:38:33.534Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-30T19:38:33.534Z"
 }
