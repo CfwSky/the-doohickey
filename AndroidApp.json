@@ -13698,6 +13698,8 @@
     "FFlagHumanoidDescriptionUseInstances5_PlaceFilter": "true;18235917861;16570073256;17362271377;17745270078",
     "FFlagVoiceChatCullingEnableStaleSubsTelemetry": true,
     "FFlagRemoveKickWhitespaceSub": true,
+    "FFlagRegisterTerminationCrashHandler_Rollout": "true;60;2024-07-31T16:06:01",
+    "FFlagLuaAppGameDetailLockState_Rollout": "true;60;2024-07-31T16:08:50",
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -14272,8 +14274,8 @@
     "DFFlagMicroprofilerOutput2": true,
     "FFlagLuaAppGameTileThumbnailBadgesEnabled3": true,
     "DFFlagReportSwapUsage2": true,
-    "FStringFlagRepoGitHashFastString": "dfac08fdeb4828dcb9a568ea3cd8e33d9f418281",
-    "DFStringFlagRepoGitHashDynamicString": "dfac08fdeb4828dcb9a568ea3cd8e33d9f418281",
-    "FStringFlipTimeStampFastString": "2024-07-31T00:56:16.014Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-31T00:56:16.014Z"
+    "FStringFlagRepoGitHashFastString": "68819e11ee788aedaf063bad9e4d52e5b95446ee",
+    "DFStringFlagRepoGitHashDynamicString": "68819e11ee788aedaf063bad9e4d52e5b95446ee",
+    "FStringFlipTimeStampFastString": "2024-07-31T16:11:32.888Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-31T16:11:32.888Z"
 }
