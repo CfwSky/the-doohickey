@@ -13685,9 +13685,7 @@
     "FFlagDevFrameworkGetRowHeight": true,
     "FFlagAXFixAdaptiveScrollingSnapAndroid": true,
     "FFlagPeekViewContentAndSystemBarFrameJitterFixIXP": true,
-    "FFlagFixMeshLoadingHang": true,
     "FFlagSimMeshLoDTranscoderE2ETest": true,
-    "FFlagRemoveKickWhitespaceSub_Rollout": "true;60;2024-07-30T23:21:25",
     "DFFlagTaskLibAddNaninfWarningToDelay": true,
     "FFlagWaitForUniverseDataHangFix": true,
     "FFlagUseSessionServiceWrapper": true,
@@ -13699,6 +13697,7 @@
     "FFlagHumanoidDescriptionUseInstances5": false,
     "FFlagHumanoidDescriptionUseInstances5_PlaceFilter": "true;18235917861;16570073256;17362271377;17745270078",
     "FFlagVoiceChatCullingEnableStaleSubsTelemetry": true,
+    "FFlagRemoveKickWhitespaceSub": true,
     "FFlagDualSurfaceAppUsePerfControlForMemoryPressure": true,
     "FFlagIntegrityCheckedProcessorUsePerfControl": true,
     "FFlagSingleSurfaceAppUsePerfControlForMemoryPressure": true,
@@ -14195,8 +14194,8 @@
     "FFlagLuaAppGameTileThumbnailBadgesEnabled3": true,
     "FFlagUAppBlockPageUseTextFromGUAC": true,
     "FFlagDisableLogWhenMonitorConditionLocked2": true,
-    "FStringFlagRepoGitHashFastString": "f0dfb4d71e308e11841823ce39cd6eaef945fb4e",
-    "DFStringFlagRepoGitHashDynamicString": "f0dfb4d71e308e11841823ce39cd6eaef945fb4e",
-    "FStringFlipTimeStampFastString": "2024-07-31T00:51:17.155Z",
-    "DFStringFlipTimeStampDynamicString": "2024-07-31T00:51:17.155Z"
+    "FStringFlagRepoGitHashFastString": "dfac08fdeb4828dcb9a568ea3cd8e33d9f418281",
+    "DFStringFlagRepoGitHashDynamicString": "dfac08fdeb4828dcb9a568ea3cd8e33d9f418281",
+    "FStringFlipTimeStampFastString": "2024-07-31T00:56:16.014Z",
+    "DFStringFlipTimeStampDynamicString": "2024-07-31T00:56:16.014Z"
 }
