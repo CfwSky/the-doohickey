@@ -139,7 +139,6 @@
     "FFlagDefaultUDimSuperBriefView": true,
     "FFlagRegisterTerminationCrashHandler": true,
     "FFlagAXItemCardTallEnabled3": true,
-    "FFlagFullProfileViewIXPSetupEnabled_v2": true,
     "DFFlagFixExtraParserMapEntries": true,
     "DFFlagOptimizeFlagDatabankSetValue2": true,
     "FFlagRefactorRescaleVideo": true,
@@ -151,6 +150,9 @@
     "FFlagAXFixDisabledNonLimitedCollectibles": true,
     "DFFlagOptimizeFlagProcessing": true,
     "DFFlagEnableInPlaceFlagJsonParsing": true,
+    "FFlagFixNilButtonCrashApp": true,
+    "FFlagAXDefaultMobileUIToFullShopIXPEnabled": true,
+    "FFlagAXDisableWidgetPlatformLayerExposure": true,
     "FFlagMacBootstrapperReportClientUpdateInfo": true,
     "FFlagMacInstallerReportClientInstallInfo": true,
     "FFlagMacBootstrapperUseDeployPathExtension": true,
@@ -160,8 +162,8 @@
     "FIntBootstrapper64BitStudioPercentage": 5,
     "InfluxInstallHundredthsPercentage": 1,
     "ShowInstallSuccessPrompt": false,
-    "FStringFlagRepoGitHashFastString": "59d345a1f5b072c9a2d4963bdef1ea1ee87a0609",
-    "DFStringFlagRepoGitHashDynamicString": "59d345a1f5b072c9a2d4963bdef1ea1ee87a0609",
-    "FStringFlipTimeStampFastString": "2024-08-05T16:29:24.624Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-05T16:29:24.624Z"
+    "FStringFlagRepoGitHashFastString": "5a205b2ca5c3569f81a4d52bf6f86c26cfa07044",
+    "DFStringFlagRepoGitHashDynamicString": "5a205b2ca5c3569f81a4d52bf6f86c26cfa07044",
+    "FStringFlipTimeStampFastString": "2024-08-06T00:56:46.457Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-06T00:56:46.457Z"
 }
