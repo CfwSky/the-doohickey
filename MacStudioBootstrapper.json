@@ -152,6 +152,8 @@
     "FFlagFixNilButtonCrashApp": true,
     "FFlagAXDefaultMobileUIToFullShopIXPEnabled": true,
     "FFlagAXDisableWidgetPlatformLayerExposure": true,
+    "FFlagEnableQrCodePageProfileShareLink": true,
+    "FFlagVngTOSRevisedEnabled": true,
     "FFlagMacBootstrapperReportClientUpdateInfo": true,
     "FFlagMacInstallerReportClientInstallInfo": true,
     "FFlagMacBootstrapperUseDeployPathExtension": true,
@@ -161,8 +163,8 @@
     "FIntBootstrapper64BitStudioPercentage": 5,
     "InfluxInstallHundredthsPercentage": 1,
     "ShowInstallSuccessPrompt": false,
-    "FStringFlagRepoGitHashFastString": "b3171570983817668b4d6115da0c05e1b2f1664a",
-    "DFStringFlagRepoGitHashDynamicString": "b3171570983817668b4d6115da0c05e1b2f1664a",
-    "FStringFlipTimeStampFastString": "2024-08-08T01:26:52.398Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-08T01:26:52.398Z"
+    "FStringFlagRepoGitHashFastString": "a7af0ed0a41567e7cd3ca0da4af584258c7c5669",
+    "DFStringFlagRepoGitHashDynamicString": "a7af0ed0a41567e7cd3ca0da4af584258c7c5669",
+    "FStringFlipTimeStampFastString": "2024-08-08T19:02:19.300Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-08T19:02:19.300Z"
 }
