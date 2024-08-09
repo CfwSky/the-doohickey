@@ -13923,12 +13923,12 @@
     "FStringChatLandingPvUpsellFailedCounter": "ChatLandingPvUpsellFailediOS",
     "FStringChatLandingPvUpsellRenderedCounter": "ChatLandingPvUpsellRenderediOS",
     "FStringChatLandingPvUpsellSucceededCounter": "ChatLandingPvUpsellSucceedediOS",
-    "FFlagIncreaseConsoleReportMenuSize_Rollout": "true;60;2024-08-08T23:44:36",
-    "FFlagCloseReadOnlyMappedFileAfterOpen_Rollout": "true;60;2024-08-08T23:46:34",
     "FStringChatLandingUnfilteredThreadsFtuxDismissedCounter": "ChatLandingUnfilteredThreadsFtuxDismissediOS",
     "FStringChatLandingUnfilteredThreadsFtuxLearnMoreClickedCounter": "ChatLandingUnfilteredThreadsFtuxLearnMoreClickediOS",
     "FStringChatLandingUnfilteredThreadsFtuxRenderedCounter": "ChatLandingUnfilteredThreadsFtuxRenderediOS",
     "FFlagLegacyAppShellLogOnRequire2": true,
+    "FFlagIncreaseConsoleReportMenuSize": true,
+    "FFlagCloseReadOnlyMappedFileAfterOpen": true,
     "AllowVideoPreRoll": true,
     "AxisAdornmentGrabSize": 12,
     "CaptureCountersIntervalInMinutes": 5,
@@ -14541,8 +14541,8 @@
     "FFlagFixMediaGalleryOversized": true,
     "FFlagAddUserScrollingStatData": true,
     "FFlagEditProfileUseSocialToast": true,
-    "FStringFlagRepoGitHashFastString": "c3614db2b0ec590cbeef0e49d307fa532d246657",
-    "DFStringFlagRepoGitHashDynamicString": "c3614db2b0ec590cbeef0e49d307fa532d246657",
-    "FStringFlipTimeStampFastString": "2024-08-09T00:11:59.572Z",
-    "DFStringFlipTimeStampDynamicString": "2024-08-09T00:11:59.572Z"
+    "FStringFlagRepoGitHashFastString": "e3ba9becca7ef9b8eeb0877142666057feb5a8f3",
+    "DFStringFlagRepoGitHashDynamicString": "e3ba9becca7ef9b8eeb0877142666057feb5a8f3",
+    "FStringFlipTimeStampFastString": "2024-08-09T01:22:04.575Z",
+    "DFStringFlipTimeStampDynamicString": "2024-08-09T01:22:04.575Z"
 }
